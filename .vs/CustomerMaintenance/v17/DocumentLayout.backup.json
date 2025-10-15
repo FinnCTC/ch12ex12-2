@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\frmcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|c:\\users\\fmayberry1s\\desktop\\customermaintenance\\customermaintenance\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|solutionrelative:customermaintenance\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80FE62DC-85F2-4454-B8F4-823A564C517E}|CustomerMaintenance\\CustomerMaintenance.csproj|C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\customermaintenance\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -46,24 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "frmCustomer.cs",
               "DocumentMoniker": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\frmCustomer.cs",
               "RelativeDocumentMoniker": "CustomerMaintenance\\frmCustomer.cs",
               "ToolTip": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\frmCustomer.cs",
               "RelativeToolTip": "CustomerMaintenance\\frmCustomer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T18:08:36.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "frmCustomer.Designer.cs",
               "DocumentMoniker": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\frmCustomer.Designer.cs",
               "RelativeDocumentMoniker": "CustomerMaintenance\\frmCustomer.Designer.cs",
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "frmCustomer.cs [Design]",
               "DocumentMoniker": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\frmCustomer.cs",
               "RelativeDocumentMoniker": "CustomerMaintenance\\frmCustomer.cs",
@@ -88,45 +88,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "frmAddCustomer.cs",
               "DocumentMoniker": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\frmAddCustomer.cs",
               "RelativeDocumentMoniker": "CustomerMaintenance\\frmAddCustomer.cs",
-              "ToolTip": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\frmAddCustomer.cs*",
-              "RelativeToolTip": "CustomerMaintenance\\frmAddCustomer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\frmAddCustomer.cs",
+              "RelativeToolTip": "CustomerMaintenance\\frmAddCustomer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T19:12:16.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Validator.cs",
               "DocumentMoniker": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\Validator.cs",
               "RelativeDocumentMoniker": "CustomerMaintenance\\Validator.cs",
               "ToolTip": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\Validator.cs",
               "RelativeToolTip": "CustomerMaintenance\\Validator.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:54:07.553Z"
+              "WhenOpened": "2025-10-15T17:54:07.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\Customer.cs",
               "RelativeDocumentMoniker": "CustomerMaintenance\\Customer.cs",
-              "ToolTip": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\Customer.cs",
-              "RelativeToolTip": "CustomerMaintenance\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\Customer.cs*",
+              "RelativeToolTip": "CustomerMaintenance\\Customer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T17:47:05.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CustomerDB.cs",
               "DocumentMoniker": "C:\\Users\\FMayberry1s\\Desktop\\CustomerMaintenance\\CustomerMaintenance\\CustomerDB.cs",
               "RelativeDocumentMoniker": "CustomerMaintenance\\CustomerDB.cs",

@@ -32,3 +32,4 @@ C:\Users\FMayberry1s\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\n
 C:\Users\FMayberry1s\Desktop\CustomerMaintenance\CustomerMaintenance\bin\Debug\net7.0-windows\CustomerMaintenance.pdb
 C:\Users\FMayberry1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.genruntimeconfig.cache
 C:\Users\FMayberry1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\ref\CustomerMaintenance.dll
+C:\Users\FMayberry1s\Desktop\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.sourcelink.json

@@ -30,12 +30,20 @@ namespace CustomerMaintenance
             theCusomer customer = newCustomer.GetNewCustomer();
             if (customer != null)
             {
-                customers.Add(customer);
-                CustomerDB.SaveCustomers(customers);
-                FillCustomersBox();
-            }
+                if (customers.Contains(customer))
+                {
+                    MessageBox.Show("A customer with the info " + customer.GetDisplayText("\t") + " is already in the list.", "Error");
+                }
 
+                else
+                {
+                    customers.Add(customer);
+                    CustomerDB.SaveCustomers(customers);
+                    FillCustomersBox();
+                }
+            }
         }
+
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
